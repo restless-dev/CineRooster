@@ -16,7 +16,7 @@ Open and run the application file:
 \src\main\java\com\reviewrooster\CineRooster\CineRoosterApplication.java
 ```
 
-**Please do not forget to run the frontend code as well!The frontend repository is available in: https://github.com/restless-dev/CineRoosterFrontend**
+**Please do not forget to run the frontend code as well! The frontend repository is available in: https://github.com/restless-dev/CineRoosterFrontend**
 
 ## Stack
 
